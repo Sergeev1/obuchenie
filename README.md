@@ -1,0 +1,2 @@
+# obuchenie
+learn with git
